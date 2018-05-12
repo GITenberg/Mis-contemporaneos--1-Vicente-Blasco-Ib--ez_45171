@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26175
     wikipedia: http://es.wikipedia.org/wiki/Eduardo_Zamacois
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45171#Mis-contemporaneos--1-Vicente-Blasco-Ib--ez
 gutenberg_issued: '2014-03-18'
 gutenberg_type: Text
 identifiers:
