@@ -1,0 +1,30 @@
+_repo: Mis-contemporaneos--1-Vicente-Blasco-Ib--ez_45171
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45171-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Zamacois, Eduardo
+    aliases:
+    - Zamacois, E. (Eduardo)
+    - Quintana, Eduardo Zamacois y
+    birthdate: 1873
+    deathdate: 1971
+    gutenberg_agent_id: '26175'
+    url: http://www.gutenberg.org/2009/agents/26175
+    wikipedia: http://es.wikipedia.org/wiki/Eduardo_Zamacois
+description: ''
+gutenberg_issued: '2014-03-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45171'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Blasco Ibáñez, Vicente, 1867-1928'
+title: Mis contemporaneos; 1 Vicente Blasco Ibáñez
+url: http://www.gutenberg.org/ebooks/45171
